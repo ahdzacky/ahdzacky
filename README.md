@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Miftahul Zaki</h1>
 <h3 align="center">Proficient Full-Stack Web Developer | AR & AI Enthusiast</h3>
 
-🔭 I’m currently working on enterprise web applications and engaging AR and AI experiences at madebyhumans & Interscience Consultant.<br><br>👯 I’m looking to collaborate on innovative open-source projects involving Laravel, React.js, Django, or WebAR.<br><br>🤝 I’m looking for help with expanding my knowledge in advanced Artificial Intelligence and LLM implementations.<br><br>🌱 I’m currently learning Information Systems at Institut Teknologi Batam.<br><br>💬 Ask me about full-stack architecture, AI integration and Augmented Reality development.<br><br>⚡ Fun fact I used to teach Augmented Reality development using Meta Spark Studio!
+🔭 I’m currently working on enterprise web applications and engaging AR and AI experiences at madebyhumans & Interscience Consultant.<br><br>👯 I’m looking to collaborate on innovative open-source projects involving Laravel, Node.js, Django, or WebAR.<br><br>🤝 I’m looking for help with expanding my knowledge in advanced Artificial Intelligence and LLM implementations.<br><br>🌱 I’m currently learning Information Systems at Institut Teknologi Batam.<br><br>💬 Ask me about full-stack architecture, AI integration and Augmented Reality development.<br><br>⚡ Fun fact I used to teach Augmented Reality development using Meta Spark Studio!
 
 
 ## 🌐 Socials:
